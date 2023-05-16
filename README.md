@@ -2,7 +2,8 @@
  **Hi! My name is Julia!** ✌️
  <br>- I'm Front-End Dev student. Always learning. 🚀
  <br>- She/Her, He/Him, They/Them 🙋‍♀️<br>
-
+ 
+ <img src="https://im2.ezgif.com/tmp/ezgif-2-782a71ccbd.gif" widht=200px/>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/julzita) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/JuliaHeinecke#3042) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juliaheinecke) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/julia-garcia-135234187) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/_bobba) 

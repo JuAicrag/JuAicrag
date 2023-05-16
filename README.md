@@ -1,4 +1,7 @@
-# About me ✨<br>**Hi! My name is Julia!** ✌️<br>- I'm Front-End Dev student. Always learning. 🚀<br>- She/Her, He/Him, They/Them 🙋‍♀️<br>
+# About me ✨
+ **Hi! My name is Julia!** ✌️
+ <br>- I'm Front-End Dev student. Always learning. 🚀
+ <br>- She/Her, He/Him, They/Them 🙋‍♀️<br>
 
 
 ## 🌐 Socials:
